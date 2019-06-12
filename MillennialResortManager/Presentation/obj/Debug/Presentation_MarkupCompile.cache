@@ -1,0 +1,20 @@
+﻿Presentation
+
+
+winexe
+C#
+.cs
+E:\SPRING 2019\Capstone\Capstone-2019\MillennialResortManager\Presentation\obj\Debug\
+Presentation
+none
+false
+DEBUG;TRACE
+E:\SPRING 2019\Capstone\Capstone-2019\MillennialResortManager\Presentation\App.xaml
+115-429192226
+51001242449
+119589935108
+30-1160117221
+AddDepartment.xaml;AddGuestType.xaml;AddLuggage.xaml;AddPerformance.xaml;AddSpecialOrder.xaml;BrowseAppointment.xaml;BrowseAppointmentType.xaml;BrowseAvailableRooms.xaml;BrowseBuilding.xaml;AddRoles.xaml;AddRoom.xaml;BrowseEmployee.xaml;BrowseEmployeeRole.xaml;BrowseGuests.xaml;BrowseEventType.xaml;BrowseGuestVehicles.xaml;BrowseItem.xaml;BrowseMaintenanceWorkOrders.xaml;BrowseOrders.xaml;BrowsePetType.xaml;BrowseReceiving.xaml;BrowseReservation.xaml;BrowseSetup.xaml;BrowseSetupList.xaml;BrowseShop.xaml;BrowseShuttleReservation.xaml;BrowseSpecialOrder.xaml;BrowseSponsor.xaml;BuildingDetail.xaml;CreateAppointmentType.xaml;CreateEmployeeRole.xaml;CreateEventType.xaml;CreateHouseKeepingRequest.xaml;CreateItem.xaml;CreateMaintenanceWorkOrder.xaml;CreatePetType.xaml;CreateReservation.xaml;CreateShop.xaml;CtrlThreadParticipantAdder.xaml;DeactivateHouseKeepingRequest.xaml;DeactivateMaintenanceWorkOrder.xaml;DeactivateReservation.xaml;DeleteAppointmentType.xaml;DeleteDepartment.xaml;DeleteEventType.xaml;DeleteGuestType.xaml;DeletePetType.xaml;DeleteRole.xaml;DeleteRoom.xaml;Departments.xaml;DevLauncher.xaml;EditLuggage.xaml;EmployeeDetail.xaml;EmployeeRoles.xaml;frmAddEditEvent.xaml;frmAddEditGuest.xaml;frmAddEditPet.xaml;frmAddEditSponsor.xaml;frmAddEditSupplierOrder.xaml;frmAddEditViewAppointment.xaml;frmAddEditViewRoom.xaml;frmAddItemSupplierForItem.xaml;FrmAddMessageThreadParticipants.xaml;frmBrowseRecipes.xaml;FrmBrowseShuttleVehicles.xaml;FrmCheckoutPrompt.xaml;FrmCheckoutPromptTwo.xaml;frmConfirmAction.xaml;frmCreateRecipe.xaml;frmEventDeleteConfirmation.xaml;frmEventMain.xaml;frmInbox.xaml;frmEventPerformanceMain.xaml;frmEventSponsorMain.xaml;frmManageItemSuppliers.xaml;FrmManageResortProperty.xaml;FrmManageShuttleVehicle.xaml;frmManageSupplierOrders.xaml;frmMember.xaml;frmNewMessage.xaml;frmOffering.xaml;frmPetMain.xaml;frmPickOrders.xaml;frmReservationCheckout.xaml;FrmResortPropertyType.xaml;FrmResortVehicleCheckout.xaml;frmRoomManagment.xaml;frmSelectRecipeItem.xaml;frmSelectGuestForAppointment.xaml;frmSupplier.xaml;frmUpdatePassword.xaml;FrontDeskTemplate.xaml;GuestMemberRoomDetail.xaml;GuestTypes.xaml;GuestVehicleDetail.xaml;InspectionDetail.xaml;InternalOrderDetail.xaml;Items.xaml;LoginPage.xaml;MainWindow.xaml;BrowseSupplier.xaml;MemberTabDetail.xaml;MemberTabList.xaml;OrderRecieving.xaml;PerformanceViewer.xaml;PickSheetReport.xaml;Read_BrowseOrder.xaml;RoomTypes.xaml;SetupDetail.xaml;SetupListDetail.xaml;ShuttleReservationDetail.xaml;StyleSheet.xaml;viewAccount.xaml;ViewPerformance.xaml;WalkInAppointmentDetail.xaml;
+
+False
+

@@ -1,0 +1,9 @@
+E:\SPRING 2019\Capstone\Capstone-2019\MillennialResortManager\ExceptionLoggerDataAccess\bin\Debug\ExceptionLoggerDataAccess.dll
+E:\SPRING 2019\Capstone\Capstone-2019\MillennialResortManager\ExceptionLoggerDataAccess\bin\Debug\ExceptionLoggerDataAccess.pdb
+E:\SPRING 2019\Capstone\Capstone-2019\MillennialResortManager\ExceptionLoggerDataAccess\bin\Debug\DataObjects.dll
+E:\SPRING 2019\Capstone\Capstone-2019\MillennialResortManager\ExceptionLoggerDataAccess\bin\Debug\DataObjects.pdb
+E:\SPRING 2019\Capstone\Capstone-2019\MillennialResortManager\ExceptionLoggerDataAccess\obj\Debug\ExceptionLoggerDataAccess.csprojAssemblyReference.cache
+E:\SPRING 2019\Capstone\Capstone-2019\MillennialResortManager\ExceptionLoggerDataAccess\obj\Debug\ExceptionLoggerDataAccess.csproj.CoreCompileInputs.cache
+E:\SPRING 2019\Capstone\Capstone-2019\MillennialResortManager\ExceptionLoggerDataAccess\obj\Debug\ExceptionLoggerDataAccess.csproj.CopyComplete
+E:\SPRING 2019\Capstone\Capstone-2019\MillennialResortManager\ExceptionLoggerDataAccess\obj\Debug\ExceptionLoggerDataAccess.dll
+E:\SPRING 2019\Capstone\Capstone-2019\MillennialResortManager\ExceptionLoggerDataAccess\obj\Debug\ExceptionLoggerDataAccess.pdb
